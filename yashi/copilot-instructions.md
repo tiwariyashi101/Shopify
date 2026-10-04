@@ -1,0 +1,1 @@
+/Users/yashi/Desktop/Shopify/themes/my-theme/monochrome-aspect-theme/yashi/AGENTS.md
